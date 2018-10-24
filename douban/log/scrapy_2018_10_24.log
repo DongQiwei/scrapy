@@ -1,0 +1,251 @@
+2018-10-24 14:47:22 [py.warnings] WARNING: C:\Users\dong\wh_1804_scrapy_env\lib\site-packages\scrapy\utils\deprecate.py:156: ScrapyDeprecationWarning: `scrapy.contrib.downloadermiddleware.useragent.UserAgentMiddleware` class is deprecated, use `scrapy.downloadermiddlewares.useragent.UserAgentMiddleware` instead
+  ScrapyDeprecationWarning)
+
+2018-10-24 14:47:44 [douban_spider] WARNING: start to parse url:https://movie.douban.com/top250
+2018-10-24 14:47:44 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p480747492.jpg, name:肖申克的救赎
+2018-10-24 14:47:44 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910813120.jpg, name:霸王别姬
+2018-10-24 14:47:44 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p511118051.jpg, name:这个杀手不太冷
+2018-10-24 14:47:44 [douban_spider] WARNING: image_url:https://img1.doubanio.com/view/photo/s_ratio_poster/public/p510876377.jpg, name:阿甘正传
+2018-10-24 14:47:44 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p510861873.jpg, name:美丽人生
+2018-10-24 14:47:44 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p457760035.jpg, name:泰坦尼克号
+2018-10-24 14:47:44 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1606727862.jpg, name:千与千寻
+2018-10-24 14:47:44 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p492406163.jpg, name:辛德勒的名单
+2018-10-24 14:47:44 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p513344864.jpg, name:盗梦空间
+2018-10-24 14:47:44 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1461851991.jpg, name:机器人总动员
+2018-10-24 14:47:44 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p524964016.jpg, name:忠犬八公的故事
+2018-10-24 14:47:44 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p579729551.jpg, name:三傻大闹宝莱坞
+2018-10-24 14:47:44 [douban_spider] WARNING: image_url:https://img1.doubanio.com/view/photo/s_ratio_poster/public/p511146807.jpg, name:海上钢琴师
+2018-10-24 14:47:44 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910824951.jpg, name:放牛班的春天
+2018-10-24 14:47:44 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2455050536.jpg, name:大话西游之大圣娶亲
+2018-10-24 14:47:44 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p479682972.jpg, name:楚门的世界
+2018-10-24 14:47:44 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2190556185.jpg, name:教父
+2018-10-24 14:47:44 [douban_spider] WARNING: image_url:https://img1.doubanio.com/view/photo/s_ratio_poster/public/p537668599.jpg, name:龙猫
+2018-10-24 14:47:44 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2206088801.jpg, name:星际穿越
+2018-10-24 14:47:44 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1363250216.jpg, name:熔炉
+2018-10-24 14:47:44 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2233971046.jpg, name:无间道
+2018-10-24 14:47:44 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1454261925.jpg, name:触不可及
+2018-10-24 14:47:44 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1312700744.jpg, name:当幸福来敲门
+2018-10-24 14:47:44 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1963126880.jpg, name:乱世佳人
+2018-10-24 14:47:44 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p663036666.jpg, name:怦然心动
+2018-10-24 14:47:44 [douban_spider] WARNING: scrapy next_link:?start=25&filter=
+2018-10-24 14:50:18 [scrapy.pipelines.files] WARNING: File (unknown-error): Error downloading image from <GET https://img3.doubanio.com/view/photo/s_ratio_poster/public/p510861873.jpg> referred in <None>: Could not open CONNECT tunnel with proxy 103.87.236.154:41183 [{'status': 403, 'reason': b'Forbidden'}]
+2018-10-24 14:50:18 [scrapy.core.scraper] WARNING: Dropped: Item contains no images
+{'describe': '最美的谎言。',
+ 'evaluate': '540968人评价',
+ 'image_url': ['https://img3.doubanio.com/view/photo/s_ratio_poster/public/p510861873.jpg'],
+ 'introduce': '1997/意大利/剧情喜剧爱情战争',
+ 'movie_name': '美丽人生',
+ 'serial_number': '5',
+ 'star': '9.5'}
+2018-10-24 14:50:56 [scrapy.pipelines.files] WARNING: File (unknown-error): Error downloading image from <GET https://img3.doubanio.com/view/photo/s_ratio_poster/public/p524964016.jpg> referred in <None>: Could not open CONNECT tunnel with proxy 117.55.209.123:8080 [{'status': 503, 'reason': b'Service Unavailable'}]
+2018-10-24 14:50:56 [scrapy.core.scraper] WARNING: Dropped: Item contains no images
+{'describe': '永远都不能忘记你所爱的人。',
+ 'evaluate': '608812人评价',
+ 'image_url': ['https://img3.doubanio.com/view/photo/s_ratio_poster/public/p524964016.jpg'],
+ 'introduce': '2009/美国英国/剧情',
+ 'movie_name': '忠犬八公的故事',
+ 'serial_number': '11',
+ 'star': '9.3'}
+2018-10-24 14:51:01 [scrapy.pipelines.files] WARNING: File (unknown-error): Error downloading image from <GET https://img3.doubanio.com/view/photo/s_ratio_poster/public/p513344864.jpg> referred in <None>: Could not open CONNECT tunnel with proxy 117.55.209.126:8080 [{'status': 503, 'reason': b'Service Unavailable'}]
+2018-10-24 14:51:01 [scrapy.core.scraper] WARNING: Dropped: Item contains no images
+{'describe': '诺兰给了我们一场无法盗取的梦。',
+ 'evaluate': '945652人评价',
+ 'image_url': ['https://img3.doubanio.com/view/photo/s_ratio_poster/public/p513344864.jpg'],
+ 'introduce': '2010/美国英国/剧情科幻悬疑冒险',
+ 'movie_name': '盗梦空间',
+ 'serial_number': '9',
+ 'star': '9.3'}
+2018-10-24 14:51:26 [scrapy.pipelines.files] WARNING: File (unknown-error): Error downloading image from <GET https://img1.doubanio.com/view/photo/s_ratio_poster/public/p537668599.jpg> referred in <None>: TCP connection timed out: 10060: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。.
+2018-10-24 14:51:26 [scrapy.core.scraper] WARNING: Dropped: Item contains no images
+{'describe': '人人心中都有个龙猫，童年就永远不会消失。',
+ 'evaluate': '525888人评价',
+ 'image_url': ['https://img1.doubanio.com/view/photo/s_ratio_poster/public/p537668599.jpg'],
+ 'introduce': '1988/日本/动画奇幻冒险',
+ 'movie_name': '龙猫',
+ 'serial_number': '18',
+ 'star': '9.1'}
+2018-10-24 14:52:28 [scrapy.pipelines.files] WARNING: File (unknown-error): Error downloading image from <GET https://img3.doubanio.com/view/photo/s_ratio_poster/public/p492406163.jpg> referred in <None>: Could not open CONNECT tunnel with proxy 103.87.236.154:41183 [{'status': 403, 'reason': b'Forbidden'}]
+2018-10-24 14:52:28 [scrapy.core.scraper] WARNING: Dropped: Item contains no images
+{'describe': '拯救一个人，就是拯救整个世界。',
+ 'evaluate': '487369人评价',
+ 'image_url': ['https://img3.doubanio.com/view/photo/s_ratio_poster/public/p492406163.jpg'],
+ 'introduce': '1993/美国/剧情历史战争',
+ 'movie_name': '辛德勒的名单',
+ 'serial_number': '8',
+ 'star': '9.5'}
+2018-10-24 14:52:36 [scrapy.pipelines.files] WARNING: File (unknown-error): Error downloading image from <GET https://img3.doubanio.com/view/photo/s_ratio_poster/public/p579729551.jpg> referred in <None>: Could not open CONNECT tunnel with proxy 117.55.209.123:8080 [{'status': 503, 'reason': b'Service Unavailable'}]
+2018-10-24 14:52:36 [scrapy.core.scraper] WARNING: Dropped: Item contains no images
+{'describe': '英俊版憨豆，高情商版谢耳朵。',
+ 'evaluate': '847588人评价',
+ 'image_url': ['https://img3.doubanio.com/view/photo/s_ratio_poster/public/p579729551.jpg'],
+ 'introduce': '2009/印度/剧情喜剧爱情歌舞',
+ 'movie_name': '三傻大闹宝莱坞',
+ 'serial_number': '12',
+ 'star': '9.2'}
+2018-10-24 14:53:33 [scrapy.pipelines.files] WARNING: File (unknown-error): Error downloading image from <GET https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1461851991.jpg> referred in <None>: User timeout caused connection failure: Getting https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1461851991.jpg took longer than 180.0 seconds..
+2018-10-24 14:53:33 [scrapy.core.scraper] WARNING: Dropped: Item contains no images
+{'describe': '小瓦力，大人生。',
+ 'evaluate': '626198人评价',
+ 'image_url': ['https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1461851991.jpg'],
+ 'introduce': '2008/美国/爱情科幻动画冒险',
+ 'movie_name': '机器人总动员',
+ 'serial_number': '10',
+ 'star': '9.3'}
+2018-10-24 14:54:36 [douban_spider] WARNING: start to parse url:https://movie.douban.com/top250?start=25&filter=
+2018-10-24 14:54:36 [douban_spider] WARNING: image_url:https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2315672647.jpg, name:疯狂动物城
+2018-10-24 14:54:36 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910901025.jpg, name:天堂电影院
+2018-10-24 14:54:36 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p462657443.jpg, name:蝙蝠侠：黑暗骑士
+2018-10-24 14:54:36 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2513253791.jpg, name:活着
+2018-10-24 14:54:36 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2173577632.jpg, name:十二怒汉
+2018-10-24 14:54:36 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1784592701.jpg, name:少年派的奇幻漂流
+2018-10-24 14:54:36 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1181775734.jpg, name:鬼子来了
+2018-10-24 14:54:36 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910825503.jpg, name:指环王3：王者无敌
+2018-10-24 14:54:36 [douban_spider] WARNING: image_url:https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1910926158.jpg, name:搏击俱乐部
+2018-10-24 14:54:36 [douban_spider] WARNING: image_url:https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1446261379.jpg, name:天空之城
+2018-10-24 14:54:36 [douban_spider] WARNING: image_url:https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1505392928.jpg, name:控方证人
+2018-10-24 14:54:36 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2364094053.jpg, name:飞屋环游记
+2018-10-24 14:54:36 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1280323646.jpg, name:大话西游之月光宝盒
+2018-10-24 14:54:36 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2189265085.jpg, name:罗马假日
+2018-10-24 14:54:36 [douban_spider] WARNING: image_url:https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1808872109.jpg, name:窃听风暴
+2018-10-24 14:54:36 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2457983084.jpg, name:摔跤吧！爸爸
+2018-10-24 14:54:36 [douban_spider] WARNING: image_url:https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792443418.jpg, name:两杆大烟枪
+2018-10-24 14:54:36 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2158166535.jpg, name:辩护人
+2018-10-24 14:54:36 [douban_spider] WARNING: image_url:https://img1.doubanio.com/view/photo/s_ratio_poster/public/p925123037.jpg, name:闻香识女人
+2018-10-24 14:54:36 [douban_spider] WARNING: image_url:https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792238287.jpg, name:飞越疯人院
+2018-10-24 14:54:36 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2174346180.jpg, name:哈尔的移动城堡
+2018-10-24 14:54:36 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910824340.jpg, name:死亡诗社
+2018-10-24 14:54:36 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1465235231.jpg, name:V字仇杀队
+2018-10-24 14:54:36 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p455222172.jpg, name:海豚湾
+2018-10-24 14:54:36 [douban_spider] WARNING: image_url:https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2194138787.jpg, name:教父2
+2018-10-24 14:54:36 [douban_spider] WARNING: scrapy next_link:?start=50&filter=
+2018-10-24 14:55:29 [scrapy.pipelines.files] WARNING: File (unknown-error): Error downloading image from <GET https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1181775734.jpg> referred in <None>: Could not open CONNECT tunnel with proxy 117.55.209.123:8080 [{'status': 503, 'reason': b'Service Unavailable'}]
+2018-10-24 14:55:29 [scrapy.core.scraper] WARNING: Dropped: Item contains no images
+{'describe': '对敌人的仁慈，就是对自己残忍。',
+ 'evaluate': '291591人评价',
+ 'image_url': ['https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1181775734.jpg'],
+ 'introduce': '2000/中国大陆/剧情历史战争',
+ 'movie_name': '鬼子来了',
+ 'serial_number': '32',
+ 'star': '9.2'}
+2018-10-24 14:55:32 [scrapy.pipelines.files] WARNING: File (unknown-error): Error downloading image from <GET https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2457983084.jpg> referred in <None>: Could not open CONNECT tunnel with proxy 117.55.209.123:8080 [{'status': 503, 'reason': b'Service Unavailable'}]
+2018-10-24 14:55:32 [scrapy.core.scraper] WARNING: Dropped: Item contains no images
+{'describe': '你不是在为你一个人战斗，你要让千千万万的女性看到女生并不是只能相夫教子。',
+ 'evaluate': '617320人评价',
+ 'image_url': ['https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2457983084.jpg'],
+ 'introduce': '2016/印度/剧情传记运动家庭',
+ 'movie_name': '摔跤吧！爸爸',
+ 'serial_number': '41',
+ 'star': '9.1'}
+2018-10-24 14:55:52 [scrapy.pipelines.files] WARNING: File (unknown-error): Error downloading image from <GET https://img3.doubanio.com/view/photo/s_ratio_poster/public/p663036666.jpg> referred in <None>: User timeout caused connection failure: Getting https://img3.doubanio.com/view/photo/s_ratio_poster/public/p663036666.jpg took longer than 180.0 seconds..
+2018-10-24 14:55:52 [scrapy.core.scraper] WARNING: Dropped: Item contains no images
+{'describe': '真正的幸福是来自内心深处。',
+ 'evaluate': '732461人评价',
+ 'image_url': ['https://img3.doubanio.com/view/photo/s_ratio_poster/public/p663036666.jpg'],
+ 'introduce': '2010/美国/剧情喜剧爱情',
+ 'movie_name': '怦然心动',
+ 'serial_number': '25',
+ 'star': '9.0'}
+2018-10-24 14:55:56 [douban_spider] WARNING: start to parse url:https://movie.douban.com/top250?start=50&filter=
+2018-10-24 14:55:56 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg, name:指环王2：双塔奇兵
+2018-10-24 14:55:56 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1354436051.jpg, name:指环王1：魔戒再现
+2018-10-24 14:55:56 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1665997400.jpg, name:美丽心灵
+2018-10-24 14:55:56 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910899751.jpg, name:饮食男女
+2018-10-24 14:55:56 [douban_spider] WARNING: image_url:https://img1.doubanio.com/view/photo/s_ratio_poster/public/p449897379.jpg, name:情书
+2018-10-24 14:55:56 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2118532944.jpg, name:素媛
+2018-10-24 14:55:56 [douban_spider] WARNING: image_url:https://img1.doubanio.com/view/photo/s_ratio_poster/public/p726659067.jpg, name:狮子王
+2018-10-24 14:55:56 [douban_spider] WARNING: image_url:https://img1.doubanio.com/view/photo/s_ratio_poster/public/p477229647.jpg, name:美国往事
+2018-10-24 14:55:56 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792484461.jpg, name:钢琴家
+2018-10-24 14:55:56 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2165511465.jpg, name:小鞋子
+2018-10-24 14:55:56 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p457631605.jpg, name:七宗罪
+2018-10-24 14:55:56 [douban_spider] WARNING: image_url:https://img1.doubanio.com/view/photo/s_ratio_poster/public/p453723669.jpg, name:被嫌弃的松子的一生
+2018-10-24 14:55:56 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p480383375.jpg, name:致命魔术
+2018-10-24 14:55:56 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p803896904.jpg, name:天使爱美丽
+2018-10-24 14:55:56 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2192535722.jpg, name:本杰明·巴顿奇事
+2018-10-24 14:55:56 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792400696.jpg, name:西西里的美丽传说
+2018-10-24 14:55:56 [douban_spider] WARNING: image_url:https://img1.doubanio.com/view/photo/s_ratio_poster/public/p451926968.jpg, name:黑客帝国
+2018-10-24 14:55:56 [douban_spider] WARNING: image_url:https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1512562287.jpg, name:让子弹飞
+2018-10-24 14:55:56 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1014542496.jpg, name:拯救大兵瑞恩
+2018-10-24 14:55:56 [douban_spider] WARNING: image_url:https://img1.doubanio.com/view/photo/s_ratio_poster/public/p453788577.jpg, name:音乐之声
+2018-10-24 14:55:56 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2498971355.jpg, name:看不见的客人
+2018-10-24 14:55:56 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p452088641.jpg, name:末代皇帝
+2018-10-24 14:55:56 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910902213.jpg, name:低俗小说
+2018-10-24 14:55:56 [douban_spider] WARNING: image_url:https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1374546770.jpg, name:勇敢的心
+2018-10-24 14:55:57 [douban_spider] WARNING: image_url:https://img1.doubanio.com/view/photo/s_ratio_poster/public/p480956937.jpg, name:剪刀手爱德华
+2018-10-24 14:55:57 [douban_spider] WARNING: scrapy next_link:?start=75&filter=
+2018-10-24 14:56:34 [scrapy.pipelines.files] WARNING: File (unknown-error): Error downloading image from <GET https://img1.doubanio.com/view/photo/s_ratio_poster/public/p451926968.jpg> referred in <None>: Could not open CONNECT tunnel with proxy 117.55.209.126:8080 [{'status': 503, 'reason': b'Service Unavailable'}]
+2018-10-24 14:56:35 [scrapy.core.scraper] WARNING: Dropped: Item contains no images
+{'describe': '视觉革命。',
+ 'evaluate': '342895人评价',
+ 'image_url': ['https://img1.doubanio.com/view/photo/s_ratio_poster/public/p451926968.jpg'],
+ 'introduce': '1999/美国澳大利亚/动作科幻',
+ 'movie_name': '黑客帝国',
+ 'serial_number': '67',
+ 'star': '8.9'}
+2018-10-24 14:56:59 [scrapy.pipelines.files] WARNING: File (unknown-error): Error downloading image from <GET https://img1.doubanio.com/view/photo/s_ratio_poster/public/p453788577.jpg> referred in <None>: TCP connection timed out: 10060: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。.
+2018-10-24 14:56:59 [scrapy.core.scraper] WARNING: Dropped: Item contains no images
+{'describe': '用音乐化解仇恨，让歌声串起美好。',
+ 'evaluate': '275439人评价',
+ 'image_url': ['https://img1.doubanio.com/view/photo/s_ratio_poster/public/p453788577.jpg'],
+ 'introduce': '1965/美国/剧情传记爱情歌舞',
+ 'movie_name': '音乐之声',
+ 'serial_number': '70',
+ 'star': '8.9'}
+2018-10-24 14:57:03 [scrapy.pipelines.files] WARNING: File (unknown-error): Error downloading image from <GET https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1512562287.jpg> referred in <None>: TCP connection timed out: 10060: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。.
+2018-10-24 14:57:03 [scrapy.core.scraper] WARNING: Dropped: Item contains no images
+{'describe': '你给我翻译翻译，神马叫做TMD的惊喜。',
+ 'evaluate': '760812人评价',
+ 'image_url': ['https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1512562287.jpg'],
+ 'introduce': '2010/中国大陆香港/剧情喜剧动作西部',
+ 'movie_name': '让子弹飞',
+ 'serial_number': '68',
+ 'star': '8.7'}
+2018-10-24 14:57:42 [scrapy.pipelines.files] WARNING: File (unknown-error): Error downloading image from <GET https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2118532944.jpg> referred in <None>: TCP connection timed out: 10060: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。.
+2018-10-24 14:57:42 [scrapy.core.scraper] WARNING: Dropped: Item contains no images
+{'describe': '受过伤害的人总是笑得最开心，因为他们不愿意让身边的人承受一样的痛苦。',
+ 'evaluate': '235260人评价',
+ 'image_url': ['https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2118532944.jpg'],
+ 'introduce': '2013/韩国/剧情',
+ 'movie_name': '素媛',
+ 'serial_number': '56',
+ 'star': '9.1'}
+2018-10-24 14:57:50 [scrapy.pipelines.files] WARNING: File (unknown-error): Error downloading image from <GET https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg> referred in <None>: Could not open CONNECT tunnel with proxy 103.87.236.154:41183 [{'status': 403, 'reason': b'Forbidden'}]
+2018-10-24 14:57:50 [scrapy.core.scraper] WARNING: Dropped: Item contains no images
+{'describe': '承前启后的史诗篇章。',
+ 'evaluate': '327201人评价',
+ 'image_url': ['https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg'],
+ 'introduce': '2002/美国新西兰/剧情动作奇幻冒险',
+ 'movie_name': '指环王2：双塔奇兵',
+ 'serial_number': '51',
+ 'star': '9.0'}
+2018-10-24 14:58:01 [scrapy.pipelines.files] WARNING: File (unknown-error): Error downloading image from <GET https://img1.doubanio.com/view/photo/s_ratio_poster/public/p925123037.jpg> referred in <None>: Could not open CONNECT tunnel with proxy 117.55.209.123:8080 [{'status': 503, 'reason': b'Service Unavailable'}]
+2018-10-24 14:58:02 [scrapy.core.scraper] WARNING: Dropped: Item contains no images
+{'describe': '史上最美的探戈。',
+ 'evaluate': '398533人评价',
+ 'image_url': ['https://img1.doubanio.com/view/photo/s_ratio_poster/public/p925123037.jpg'],
+ 'introduce': '1992/美国/剧情',
+ 'movie_name': '闻香识女人',
+ 'serial_number': '44',
+ 'star': '9.0'}
+2018-10-24 14:58:08 [scrapy.core.scraper] ERROR: Error downloading <GET https://movie.douban.com/top250?start=75&filter=>
+Traceback (most recent call last):
+  File "C:\Users\dong\wh_1804_scrapy_env\lib\site-packages\scrapy\core\downloader\middleware.py", line 43, in process_request
+    defer.returnValue((yield download_func(request=request,spider=spider)))
+twisted.internet.error.TCPTimedOutError: TCP connection timed out: 10060: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。.
+2018-10-24 15:00:36 [scrapy.pipelines.files] WARNING: File (unknown-error): Error downloading image from <GET https://img3.doubanio.com/view/photo/s_ratio_poster/public/p480383375.jpg> referred in <None>: User timeout caused connection failure: Getting https://img3.doubanio.com/view/photo/s_ratio_poster/public/p480383375.jpg took longer than 180.0 seconds..
+2018-10-24 15:00:36 [scrapy.core.scraper] WARNING: Dropped: Item contains no images
+{'describe': '孪生蝙蝠侠大战克隆金刚狼。',
+ 'evaluate': '411479人评价',
+ 'image_url': ['https://img3.doubanio.com/view/photo/s_ratio_poster/public/p480383375.jpg'],
+ 'introduce': '2006/美国英国/剧情悬疑惊悚',
+ 'movie_name': '致命魔术',
+ 'serial_number': '63',
+ 'star': '8.8'}
+2018-10-24 15:00:57 [scrapy.pipelines.files] WARNING: File (unknown-error): Error downloading image from <GET https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792443418.jpg> referred in <None>: User timeout caused connection failure: Getting https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792443418.jpg took longer than 180.0 seconds..
+2018-10-24 15:00:57 [scrapy.core.scraper] WARNING: Dropped: Item contains no images
+{'describe': '4个臭皮匠顶个诸葛亮，盖·里奇果然不是盖的。',
+ 'evaluate': '319050人评价',
+ 'image_url': ['https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792443418.jpg'],
+ 'introduce': '1998/英国/剧情喜剧犯罪',
+ 'movie_name': '两杆大烟枪',
+ 'serial_number': '42',
+ 'star': '9.1'}
